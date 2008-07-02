@@ -11,4 +11,6 @@ func main() {
 
 	log.Println("Listening...")
 	http.ListenAndServe(":8181", nil)
+	var c = make(chan bool)
+	<- c
 }

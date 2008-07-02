@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     {{ .Hugo.Generator }}
-
+    <meta name="google-site-verification" content="WQ4eAv8VbeLdfjV1PKxwUPwNjcfWHoe8PWXQKsXs3C0" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans|Marcellus+SC'>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -15,18 +15,24 @@
 
     {{ if eq .URL "/" }}
     <title>{{ .Title }}</title>
-    <meta property='og:title' content="{{ .Title }}">
-    <meta property="og:type" content="website">
+    <meta property='og:title' content="{{ .Title }}" />
+    <meta property='og:type' content="website" />
     {{ else }}
     <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}">
-    <meta property="og:type" content="article">
+    <meta property='og:title' content="{{ .Title }} - {{ .Site.Title }}" />
+    <meta property='og:type' content="article" />
     {{ end }}
 
-    <meta property="og:url" content="{{ .Permalink }}">
-    {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
-    {{ with .Params.image }}<meta property="og:image" content="{{ $.Site.BaseURL }}images/{{ . }}">{{ end }}
-
+    <meta property='og:url' content="{{ .Permalink }}" />
+    {{if .Params.image }}
+   <meta property='og:image' content="{{ .Site.BaseURL }}images/{{.Params.image}}" />
+   <meta property='og:image:height' content="442" />
+{{else}}
+    {{if .Site.Params.cover}}
+        <meta property='og:image' content="{{ .Site.BaseURL }}{{.Site.Params.cover}}" />
+	<meta property='og:image:height' content="442" />
+    {{end}}
+{{end}}
   </head>
 
   <body>

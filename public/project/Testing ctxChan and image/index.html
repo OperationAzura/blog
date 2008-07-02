@@ -1,0 +1,292 @@
+<div class="single">
+  <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="Hugo 0.18" />
+    <meta name="google-site-verification" content="WQ4eAv8VbeLdfjV1PKxwUPwNjcfWHoe8PWXQKsXs3C0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Open+Sans|Marcellus+SC'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/solarized_dark.min.css">
+    <link rel="stylesheet" href="http://derekspace.ddns.net/css/styles.css">
+    <link rel="stylesheet" href="http://derekspace.ddns.net/css/custom.css">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://derekspace.ddns.net//index.xml">
+
+    
+    <title>Testing ctxChan and images - Derek&#39;s Blog</title>
+    <meta property='og:title' content="Testing ctxChan and images - Derek&#39;s Blog">
+    <meta property="og:type" content="article">
+    
+
+    <meta property="og:url" content="http://derekspace.ddns.net/project/Testing%20ctxChan%20and%20image/">
+    <meta name="description" content="Using goroutines and channels to fix a problem with image handling.">
+    <meta property="og:image" content="http://derekspace.ddns.net/images/Testing ctxChan and images.jpg">
+
+  </head>
+
+  <body>
+
+    <header class="site">
+      <div class="title"><a href="http://derekspace.ddns.net/">Derek&#39;s Blog</a></div>
+    </header>
+
+    <div class="container site">
+
+
+
+  <div class="row">
+    <div class="col-sm-9">
+
+      <article class="single" itemscope="itemscope" itemtype="http://schema.org/Article">
+
+        <meta itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" content="http://derekspace.ddns.net/"/>
+        <meta itemprop="dateModified" content="2017-04-08T13:52:48&#43;00:00">
+        <meta itemprop="headline" content="Testing ctxChan and images">
+        <meta itemprop="description" content="y images were being downloaded and the data in ctx was being changed properly, but it was not making it to ctx before the template was getting executed. So I am now using a channel to carry the ctx to the template execute command.">
+        <meta itemprop="url" content="http://derekspace.ddns.net/project/Testing%20ctxChan%20and%20image/">
+        <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+          <meta itemprop="url" content="http://derekspace.ddns.net/images/Testing ctxChan and images.jpg" />
+          <meta itemprop="width" content="800">
+          <meta itemprop="height" content="800">
+        </div>
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+          <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="http://derekspace.ddns.net/images/logo.jpg">
+            <meta itemprop="width" content="100">
+            <meta itemprop="height" content="100">
+          </div>
+          <meta itemprop="name" content="Derek&#39;s Blog">
+        </div>
+        <div itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <meta itemprop="name" content="Derek Stich">
+        </div>
+
+        <div class="image" style="background-image: url(http://derekspace.ddns.net/images/Testing%20ctxChan%20and%20images.jpg);"></div>
+
+        <header class="article-header">
+          <time itemprop="datePublished" pubdate="pubdate" datetime="2017-04-08T13:52:48&#43;00:00">Sat, Apr 8, 2017</time>
+          <h1 class="article-title">Testing ctxChan and images</h1>
+        </header>
+
+        <div class="article-body" itemprop="articleBody">
+          <p>y images were being downloaded and the data in ctx was being changed properly, but it was not making it to ctx before the template was getting executed.  So I am now using a channel to carry the ctx to the template execute command.</p>
+
+        </div>
+
+
+        <aside>
+          <div class="section"><a href="http://derekspace.ddns.net/tags/test" class="tag">test</a> </div>
+
+          <div class="section share">
+            <a href="http://www.facebook.com/sharer.php?src=bm&u=http%3a%2f%2fderekspace.ddns.net%2fproject%2fTesting%2520ctxChan%2520and%2520image%2f&t=Testing%20ctxChan%20and%20images" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-facebook"></i></a>
+            <a href="http://twitter.com/intent/tweet?url=http%3a%2f%2fderekspace.ddns.net%2fproject%2fTesting%2520ctxChan%2520and%2520image%2f&text=Testing%20ctxChan%20and%20images&tw_p=tweetbutton" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-twitter"></i></a>
+            <a href="https://plus.google.com/share?url=http%3a%2f%2fderekspace.ddns.net%2fproject%2fTesting%2520ctxChan%2520and%2520image%2f" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-google-plus"></i></a>
+            <a href="http://getpocket.com/edit?url=http%3a%2f%2fderekspace.ddns.net%2fproject%2fTesting%2520ctxChan%2520and%2520image%2f&title=Testing%20ctxChan%20and%20images" onclick="window.open(this.href, 'PCwindow', 'width=550, height=350, menubar=no, toolbar=no, scrollbars=yes'); return false;"><i class="fa fa-get-pocket"></i></a>
+          </div>
+
+          
+          
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+(function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  var disqus_shortname = 'hugo-2';
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+          <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          
+          
+        </aside>
+
+      </article>
+    </div>
+
+    <div class="col-sm-3">
+      <aside class="site">
+
+  
+  <div class="section">
+    <header><div class="title">TableOfContents</div></header>
+    <div class="list-default"></div>
+  </div>
+  
+
+  
+
+  <div class="section">
+    <header><div class="title">LatestPosts</div></header>
+    <div class="content">
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/Testing%20ctxChan%20and%20image/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/Testing%20ctxChan%20and%20images.jpg);"></div>
+    <div class="detail">
+      <time>Sat, Apr 8, 2017</time>
+      <h2 class="title">Testing ctxChan and images</h2>
+      <div class="summary">y images were being downloaded and the data in ctx was being changed properly, but it was not making it to ctx before the template was getting executed. So I am now using a channel to carry the ctx to the template execute command.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/Testing%20image%20handlin/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/Testing%20image%20handling.jpg);"></div>
+    <div class="detail">
+      <time>Sat, Apr 8, 2017</time>
+      <h2 class="title">Testing image handling</h2>
+      <div class="summary">esting the images. I think I got it this time</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/Tes/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/http://www.placekitten.com/220/240);"></div>
+    <div class="detail">
+      <time>Sat, Apr 8, 2017</time>
+      <h2 class="title">Test</h2>
+      <div class="summary">made an update on how I am trying to handle images.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/Wires%20for%20Valeri/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Fri, Apr 7, 2017</time>
+      <h2 class="title">Wires for Valerie</h2>
+      <div class="summary">s. Weagly sent a request to the IT department earlier today. She requested a wired network connection in her office. So I got the IT crew to start work on it immediately.
+Alex and I ran a cat5e cable from the existing hole in the floor, in the network center, to the existing hole in Valeries office. Her office had an old faceplate with 2 coax connections and a phone connection, that were all disconnected before we secured this location.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/pike%20Leveled%20Up/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Fri, Apr 7, 2017</time>
+      <h2 class="title">Spike Leveled Up!</h2>
+      <div class="summary">pike is a Worx Robotic Mower. I have had him for a while now. And I could easily say he is the most useful robot I have ever met. He was expensive, but he saves me a lot of time and money.
+I had moved his boundary wire a little a few days ago. To make room for the garden we are planning in our back yard. I figured I could improve his docking reliability.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/ictory/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Mon, Apr 3, 2017</time>
+      <h2 class="title">Victory!</h2>
+      <div class="summary">Now! I think I just tweaked the last twook, and we are ready to make these files!</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/faceTheDragon/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/faceTheDragon.jpg);"></div>
+    <div class="detail">
+      <time>Sat, Mar 18, 2017</time>
+      <h2 class="title">Face the Dragon</h2>
+      <div class="summary">I have been thinking about dragons a lot lately. Although, probably not what your thinking. Perhaps I should say thinking about archetypal stories. I would attribute a great deal of this to a University of Toronto psychology professor, Jordan B. Peterson. I love his lectures, interviews, and video clips. And I feel like I have reached a greater understanding of myself thanks to this.
+Dragon stories come from all over the world, and from all across time.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/second/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Sat, Mar 18, 2017</time>
+      <h2 class="title">Second</h2>
+      <div class="summary">&ldquo;Fixing some little things, like quotewss.&rdquo;</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/morningJogDay6/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Sat, Mar 11, 2017</time>
+      <h2 class="title">Morning Jog: Day 6</h2>
+      <div class="summary">Today has been a pretty good day! I didn&rsquo;t really plan on going for my run, and I sure didn&rsquo;t do it at 7am :) What had happened was, I was talking to my friend Andre and he came over to run with me. It was a great idea!
+I woke up late, which is fine with me. But it was after 12, which was when Andre and I were supposed to go for our jog.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+      <div class="sm"><article class="li">
+  <a href="http://derekspace.ddns.net/project/morningJogDay5/" class="clearfix">
+    <div class="image" style="background-image: url(http://derekspace.ddns.net/images/default.jpg);"></div>
+    <div class="detail">
+      <time>Fri, Mar 10, 2017</time>
+      <h2 class="title">Morning Jog: Day Five</h2>
+      <div class="summary">Alrighty! I did get some action cam footage today! I had a pretty good jog, and a pretty good day too. Also my associations have gotten stronger!
+I thought I messed up my action cam footage, but nope. So you guys will get to take a look at my little jog. See a garbage truck and some dogs maybe :) I&rsquo;m excited to get going on this action cam. It will have plenty of uses in the near future.</div>
+    </div>
+  </a>
+</article>
+</div>
+      
+    </div>
+  </div>
+
+  
+  <div class="section taxonomies">
+    <header><div class="title">category</div></header>
+    <div class="content">
+      <a href="http://derekspace.ddns.net/categories/test">test</a><a href="http://derekspace.ddns.net/categories/win">win</a><a href="http://derekspace.ddns.net/categories/"></a><a href="http://derekspace.ddns.net/categories/asdf">asdf</a><a href="http://derekspace.ddns.net/categories/poop">poop</a><a href="http://derekspace.ddns.net/categories/robots">robots</a><a href="http://derekspace.ddns.net/categories/valerie">valerie</a>
+    </div>
+  </div>
+  
+  <div class="section taxonomies">
+    <header><div class="title">tag</div></header>
+    <div class="content">
+      <a href="http://derekspace.ddns.net/tags/test">test</a><a href="http://derekspace.ddns.net/tags/win">win</a><a href="http://derekspace.ddns.net/tags/"></a><a href="http://derekspace.ddns.net/tags/asdf">asdf</a><a href="http://derekspace.ddns.net/tags/butts">butts</a><a href="http://derekspace.ddns.net/tags/spike">spike</a><a href="http://derekspace.ddns.net/tags/wiring">wiring</a>
+    </div>
+  </div>
+  
+
+</aside>
+
+    </div>
+
+  </div>
+
+      </div>
+
+    <footer class="site">
+      <p>&copy; 2017 Derek&#39;s Blog</p>
+      <p>Powered by <a href="http://gohugo.io" target="_blank" rel="nofollow">Hugo</a>, Theme <a href="https://github.com/dim0627/hugo_theme_robust" target="_blank" rel="nofollow">robust</a> designed by <a href="http://yet.unresolved.xyz" target="_blank" rel="nofollow">Daisuke Tsuji</a></p>
+    </footer>
+
+    <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+
+  </body>
+</html>
+
+</div>
