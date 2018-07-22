@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/tags/garden/index.xml</link>
+    <title>Garden on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/garden/</link>
+    <description>Recent content in Garden on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sun, 21 May 2017 21:52:28 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/tags/garden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terraforming The Back Gardens</title>
+      <link>http://derekspace.ddns.net/project/terraforming-the-back-gardens/</link>
+      <pubDate>Sun, 21 May 2017 21:52:28 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/terraforming-the-back-gardens/</guid>
+      <description>We had been planning on putting gardens in our back yard for quite a while now. And as of yesterday May 20, 2017, the seeds are planted! But there was a lot of work that had to be done first, considering the areas used to be grass covering up some red clay.
+First step was to outline the area of grass to be terra formed. So naturally I had to move Spike&amp;rsquo;s (my robotic lawn mower) base, and his border wire.</description>
+    </item>
     
+    <item>
+      <title>Terraforming</title>
+      <link>http://derekspace.ddns.net/project/terraforming/</link>
+      <pubDate>Thu, 20 Apr 2017 00:08:06 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/terraforming/</guid>
+      <description>A while ago I tore up all the grass along the backside of the house, to make garden space. I also leveled out the dirt a lot. But I was missing a piece on the other side of the steps.
+This time around I basically cut strips of sodd out of the grass. I moved them out of the way as gently as possible. I want to keep as much of the top soil as possible.</description>
+    </item>
     
-
   </channel>
 </rss>

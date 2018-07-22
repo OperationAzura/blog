@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercise on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/exercise/</link>
+    <description>Recent content in Exercise on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 01:02:10 +0000</lastBuildDate>
+    
+	<atom:link href="http://derekspace.ddns.net/tags/exercise/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Power Up!</title>
+      <link>http://derekspace.ddns.net/project/powerup/</link>
+      <pubDate>Wed, 21 Mar 2018 01:02:10 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/powerup/</guid>
+      <description>Well we have been watching DBZ lately, but I&amp;rsquo;ve been power up in real life. I&amp;rsquo;ve innitiated my first contract negotiation. I have also started exercising in the early mornings. I just need to keep power up!
+This negotiation stuff is not my style. I&amp;rsquo;m not sure I&amp;rsquo;m doing very well either. But it is my fist time, and if nothing else, its practice. This thing has been dragging out too.</description>
+    </item>
+    
+  </channel>
+</rss>

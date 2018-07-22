@@ -1,16 +1,240 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/categories/index.xml</link>
+    <title>Categories on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/</link>
+    <description>Recent content in Categories on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sat, 18 Mar 2017 22:18:08 -0500</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://derekspace.ddns.net/categories/</link>
+      <pubDate>Sat, 18 Mar 2017 22:18:08 -0500</pubDate>
       
+      <guid>http://derekspace.ddns.net/categories/</guid>
+      <description></description>
+    </item>
     
-
+    <item>
+      <title>Asdf</title>
+      <link>http://derekspace.ddns.net/categories/asdf/</link>
+      <pubDate>Tue, 15 Jul 2008 00:33:15 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/asdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baking</title>
+      <link>http://derekspace.ddns.net/categories/baking/</link>
+      <pubDate>Sun, 23 Apr 2017 20:50:32 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boss</title>
+      <link>http://derekspace.ddns.net/categories/boss/</link>
+      <pubDate>Thu, 22 Mar 2018 00:41:55 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/boss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain</title>
+      <link>http://derekspace.ddns.net/categories/brain/</link>
+      <pubDate>Wed, 21 Mar 2018 02:37:17 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butt</title>
+      <link>http://derekspace.ddns.net/categories/butt/</link>
+      <pubDate>Tue, 20 Mar 2018 13:47:19 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/butt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dragons</title>
+      <link>http://derekspace.ddns.net/categories/dragons/</link>
+      <pubDate>Thu, 13 Apr 2017 22:59:32 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/dragons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercise</title>
+      <link>http://derekspace.ddns.net/categories/exercise/</link>
+      <pubDate>Wed, 21 Mar 2018 01:02:10 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fibbage</title>
+      <link>http://derekspace.ddns.net/categories/fibbage/</link>
+      <pubDate>Thu, 22 Mar 2018 22:21:24 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/fibbage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friday</title>
+      <link>http://derekspace.ddns.net/categories/friday/</link>
+      <pubDate>Thu, 22 Mar 2018 22:21:24 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/friday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://derekspace.ddns.net/categories/game/</link>
+      <pubDate>Thu, 22 Mar 2018 22:21:24 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden</title>
+      <link>http://derekspace.ddns.net/categories/garden/</link>
+      <pubDate>Thu, 20 Apr 2017 00:08:06 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackbox</title>
+      <link>http://derekspace.ddns.net/categories/jackbox/</link>
+      <pubDate>Thu, 22 Mar 2018 22:21:24 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/jackbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job</title>
+      <link>http://derekspace.ddns.net/categories/job/</link>
+      <pubDate>Thu, 22 Mar 2018 00:41:55 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negotiation</title>
+      <link>http://derekspace.ddns.net/categories/negotiation/</link>
+      <pubDate>Thu, 22 Mar 2018 00:41:55 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/negotiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting</title>
+      <link>http://derekspace.ddns.net/categories/painting/</link>
+      <pubDate>Thu, 20 Apr 2017 00:17:01 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/painting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poop</title>
+      <link>http://derekspace.ddns.net/categories/poop/</link>
+      <pubDate>Tue, 20 Mar 2018 13:47:19 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/poop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robots</title>
+      <link>http://derekspace.ddns.net/categories/robots/</link>
+      <pubDate>Fri, 07 Apr 2017 21:32:52 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/robots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraforming</title>
+      <link>http://derekspace.ddns.net/categories/terraforming/</link>
+      <pubDate>Sun, 21 May 2017 21:52:28 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/terraforming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://derekspace.ddns.net/categories/test/</link>
+      <pubDate>Tue, 20 Mar 2018 13:47:19 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todo</title>
+      <link>http://derekspace.ddns.net/categories/todo/</link>
+      <pubDate>Sat, 22 Apr 2017 20:55:26 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valerie</title>
+      <link>http://derekspace.ddns.net/categories/valerie/</link>
+      <pubDate>Fri, 07 Apr 2017 23:55:42 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/valerie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Win</title>
+      <link>http://derekspace.ddns.net/categories/win/</link>
+      <pubDate>Tue, 15 Jul 2008 00:16:34 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://derekspace.ddns.net/categories/work/</link>
+      <pubDate>Wed, 21 Mar 2018 02:37:17 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yard Work</title>
+      <link>http://derekspace.ddns.net/categories/yard-work/</link>
+      <pubDate>Wed, 12 Apr 2017 21:35:36 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/categories/yard-work/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

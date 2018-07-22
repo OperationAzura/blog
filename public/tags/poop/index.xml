@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poop on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/poop/</link>
+    <description>Recent content in Poop on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Mar 2018 13:47:19 +0000</lastBuildDate>
+    
+	<atom:link href="http://derekspace.ddns.net/tags/poop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Got It Working3!</title>
+      <link>http://derekspace.ddns.net/project/gotitworking3/</link>
+      <pubDate>Tue, 20 Mar 2018 13:47:19 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/gotitworking3/</guid>
+      <description>Lets see</description>
+    </item>
+    
+    <item>
+      <title>Get Up!</title>
+      <link>http://derekspace.ddns.net/project/get-up/</link>
+      <pubDate>Fri, 09 Mar 2018 03:11:31 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/get-up/</guid>
+      <description>must wake Valerie up at 6:30am</description>
+    </item>
+    
+  </channel>
+</rss>

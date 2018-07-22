@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/tags/gutters/index.xml</link>
+    <title>Gutters on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/gutters/</link>
+    <description>Recent content in Gutters on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Wed, 12 Apr 2017 21:35:36 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/tags/gutters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vacumed the Gutters</title>
+      <link>http://derekspace.ddns.net/project/vacumed-the-gutters/</link>
+      <pubDate>Wed, 12 Apr 2017 21:35:36 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/vacumed-the-gutters/</guid>
+      <description>Well, I don&amp;rsquo;t think my houses gutters have been cleaned in years. And I have yet to be here an entire year. So I figured it was about time to clear them out.
+With clear gutters much less water will just spill over the sides. There was a large canal water had cut into the ground right next to my house. I have just filled it up, and I don&amp;rsquo;t want that to continue.</description>
+    </item>
     
-
   </channel>
 </rss>

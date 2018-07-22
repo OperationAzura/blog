@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/categories/baking/index.xml</link>
+    <title>Baking on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/baking/</link>
+    <description>Recent content in Baking on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sun, 23 Apr 2017 20:50:32 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/categories/baking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coconut, Cacao Nib Cookies</title>
+      <link>http://derekspace.ddns.net/project/coconut-cacao-nib-cookies/</link>
+      <pubDate>Sun, 23 Apr 2017 20:50:32 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/coconut-cacao-nib-cookies/</guid>
+      <description>Well I&amp;rsquo;ve been experimenting a little bit with amazon prime pantry. Bottom line, some things are a pretty good deal. But I also experimented a bit with what I bought too.
+I doubled my recipe soo&amp;hellip;
+1 cup Coconut flour. Gluten free! Gluten is a wheat protein, and I don&amp;rsquo;t really care about gluten free. But I like coconuts, and trying new things.
+1&amp;frasl;3 cup Coconut sugar. It seems to taste a lot like &amp;ldquo;normal&amp;rdquo; sugar.</description>
+    </item>
     
-
   </channel>
 </rss>

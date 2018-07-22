@@ -1,63 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Terraforming%20The%20Back%20Gardens/</loc>
+    <loc>http://derekspace.ddns.net/project/whowantstoplayfibbage/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/finallygotmyanswers/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/iwishiknewwhattosay./</loc>
+    <lastmod>2018-03-21T02:37:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/powerup/</loc>
+    <lastmod>2018-03-21T01:02:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/gotitworking3/</loc>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/got-it-working2/</loc>
+    <lastmod>2018-03-19T23:56:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/got-it-working/</loc>
+    <lastmod>2018-03-19T23:38:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/get-up/</loc>
+    <lastmod>2018-03-09T03:11:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/aa1/</loc>
+    <lastmod>2018-03-01T16:35:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/contract-negotiatio/</loc>
+    <lastmod>2018-02-24T19:50:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/terraforming-the-back-gardens/</loc>
     <lastmod>2017-05-21T21:52:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Coconut,%20Cacao%20Nib%20Cookies/</loc>
+    <loc>http://derekspace.ddns.net/project/coconut-cacao-nib-cookies/</loc>
     <lastmod>2017-04-23T20:50:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Gathering%20Supplies/</loc>
+    <loc>http://derekspace.ddns.net/project/gathering-supplies/</loc>
     <lastmod>2017-04-22T20:55:26+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Painting%20Code/</loc>
+    <loc>http://derekspace.ddns.net/project/painting-code/</loc>
     <lastmod>2017-04-20T00:17:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Terraforming/</loc>
+    <loc>http://derekspace.ddns.net/project/terraforming/</loc>
     <lastmod>2017-04-20T00:08:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Solar%20Tracking%20Frame%20Prototype/</loc>
+    <loc>http://derekspace.ddns.net/project/solar-tracking-frame-prototype/</loc>
     <lastmod>2017-04-19T21:28:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Lighting%20the%20Storage%20Room/</loc>
+    <loc>http://derekspace.ddns.net/project/lighting-the-storage-room/</loc>
     <lastmod>2017-04-15T13:42:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Fighting%20Dragons./</loc>
+    <loc>http://derekspace.ddns.net/project/fighting-dragons./</loc>
     <lastmod>2017-04-13T22:59:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Vacumed%20the%20Gutters/</loc>
+    <loc>http://derekspace.ddns.net/project/vacumed-the-gutters/</loc>
     <lastmod>2017-04-12T21:35:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/TODO/</loc>
+    <loc>http://derekspace.ddns.net/project/todo/</loc>
     <lastmod>2017-04-11T18:57:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/The%20Last%20Stand/</loc>
+    <loc>http://derekspace.ddns.net/project/the-last-stand/</loc>
     <lastmod>2017-04-08T15:36:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Still%20Fixing%20Images/</loc>
+    <loc>http://derekspace.ddns.net/project/still-fixing-images/</loc>
     <lastmod>2017-04-08T15:24:29+00:00</lastmod>
   </url>
   
@@ -67,37 +118,37 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Arg%20Image%20Problem%20solved/</loc>
+    <loc>http://derekspace.ddns.net/project/arg-image-problem-solved/</loc>
     <lastmod>2017-04-08T15:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Image%20Problem%20Solved%21/</loc>
+    <loc>http://derekspace.ddns.net/project/image-problem-solved/</loc>
     <lastmod>2017-04-08T14:45:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Image%20Issues/</loc>
+    <loc>http://derekspace.ddns.net/project/image-issues/</loc>
     <lastmod>2017-04-08T14:31:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Testing%20image%20handlin/</loc>
+    <loc>http://derekspace.ddns.net/project/testing-image-handlin/</loc>
     <lastmod>2017-04-08T13:05:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Tes/</loc>
+    <loc>http://derekspace.ddns.net/project/tes/</loc>
     <lastmod>2017-04-08T12:56:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/Wires%20for%20Valeri/</loc>
+    <loc>http://derekspace.ddns.net/project/wires-for-valeri/</loc>
     <lastmod>2017-04-07T23:55:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/pike%20Leveled%20Up/</loc>
+    <loc>http://derekspace.ddns.net/project/pike-leveled-up/</loc>
     <lastmod>2017-04-07T21:32:52+00:00</lastmod>
   </url>
   
@@ -107,7 +158,7 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/faceTheDragon/</loc>
+    <loc>http://derekspace.ddns.net/project/facethedragon/</loc>
     <lastmod>2017-03-18T22:18:08-05:00</lastmod>
   </url>
   
@@ -117,52 +168,52 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay6/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday6/</loc>
     <lastmod>2017-03-11T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay5/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday5/</loc>
     <lastmod>2017-03-10T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay4/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday4/</loc>
     <lastmod>2017-03-09T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay3/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday3/</loc>
     <lastmod>2017-03-08T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay2/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday2/</loc>
     <lastmod>2017-03-07T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJogDay1/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjogday1/</loc>
     <lastmod>2017-03-06T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/morningJobIntro/</loc>
+    <loc>http://derekspace.ddns.net/project/morningjobintro/</loc>
     <lastmod>2017-03-06T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/walkWithLucy/</loc>
+    <loc>http://derekspace.ddns.net/project/walkwithlucy/</loc>
     <lastmod>2017-03-05T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/thinkInLoops/</loc>
+    <loc>http://derekspace.ddns.net/project/thinkinloops/</loc>
     <lastmod>2017-02-12T22:18:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/helloGo/</loc>
+    <loc>http://derekspace.ddns.net/project/hellogo/</loc>
     <lastmod>2017-01-28T22:18:08-05:00</lastmod>
   </url>
   
@@ -192,7 +243,7 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/project/ust%20mayb/</loc>
+    <loc>http://derekspace.ddns.net/project/ust-mayb/</loc>
     <lastmod>2008-07-15T00:16:34+00:00</lastmod>
   </url>
   
@@ -202,20 +253,14 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/</loc>
-    <lastmod>2017-03-18T22:18:08-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://derekspace.ddns.net/tags/</loc>
     <lastmod>2017-03-18T22:18:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/asdf/</loc>
-    <lastmod>2008-07-15T00:33:15+00:00</lastmod>
+    <loc>http://derekspace.ddns.net/categories/</loc>
+    <lastmod>2017-03-18T22:18:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -226,14 +271,56 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/baking/</loc>
-    <lastmod>2017-04-23T20:50:32+00:00</lastmod>
+    <loc>http://derekspace.ddns.net/categories/asdf/</loc>
+    <lastmod>2008-07-15T00:33:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://derekspace.ddns.net/tags/baking/</loc>
     <lastmod>2017-04-23T20:50:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/baking/</loc>
+    <lastmod>2017-04-23T20:50:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/boss/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/boss/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/brain/</loc>
+    <lastmod>2018-03-21T02:37:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/brain/</loc>
+    <lastmod>2018-03-21T02:37:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/butt/</loc>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/butt/</loc>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,18 +332,13 @@
   
   <url>
     <loc>http://derekspace.ddns.net/categories/</loc>
+    <lastmod>2017-03-18T22:18:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://derekspace.ddns.net/</loc>
-    <lastmod>2017-05-21T21:52:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://derekspace.ddns.net/categories/dragons/</loc>
-    <lastmod>2017-04-13T22:59:32+00:00</lastmod>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -267,8 +349,56 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/garden/</loc>
-    <lastmod>2017-04-20T00:08:06+00:00</lastmod>
+    <loc>http://derekspace.ddns.net/categories/dragons/</loc>
+    <lastmod>2017-04-13T22:59:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/exercise/</loc>
+    <lastmod>2018-03-21T01:02:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/exercise/</loc>
+    <lastmod>2018-03-21T01:02:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/fibbage/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/fibbage/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/friday/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/friday/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/game/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/game/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -279,14 +409,50 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/categories/garden/</loc>
+    <lastmod>2017-04-20T00:08:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/tags/gutters/</loc>
     <lastmod>2017-04-12T21:35:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/painting/</loc>
-    <lastmod>2017-04-20T00:17:01+00:00</lastmod>
+    <loc>http://derekspace.ddns.net/tags/jackbox/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/jackbox/</loc>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/job/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/job/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/negotiation/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/negotiation/</loc>
+    <lastmod>2018-03-22T00:41:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -297,8 +463,20 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/categories/painting/</loc>
+    <lastmod>2017-04-20T00:17:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/poop/</loc>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/categories/poop/</loc>
-    <lastmod>2017-04-03T22:18:08-05:00</lastmod>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,7 +488,7 @@
   
   <url>
     <loc>http://derekspace.ddns.net/project/</loc>
-    <lastmod>2017-05-21T21:52:28+00:00</lastmod>
+    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -328,6 +506,7 @@
   
   <url>
     <loc>http://derekspace.ddns.net/tags/</loc>
+    <lastmod>2017-03-18T22:18:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -338,25 +517,25 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/test/</loc>
-    <lastmod>2017-04-08T15:36:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://derekspace.ddns.net/tags/test/</loc>
-    <lastmod>2017-04-08T15:36:38+00:00</lastmod>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/todo/</loc>
-    <lastmod>2017-04-22T20:55:26+00:00</lastmod>
+    <loc>http://derekspace.ddns.net/categories/test/</loc>
+    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://derekspace.ddns.net/tags/todo/</loc>
+    <lastmod>2017-04-22T20:55:26+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/todo/</loc>
     <lastmod>2017-04-22T20:55:26+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -368,13 +547,13 @@
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/categories/win/</loc>
+    <loc>http://derekspace.ddns.net/tags/win/</loc>
     <lastmod>2008-07-15T00:16:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://derekspace.ddns.net/tags/win/</loc>
+    <loc>http://derekspace.ddns.net/categories/win/</loc>
     <lastmod>2008-07-15T00:16:34+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -382,6 +561,18 @@
   <url>
     <loc>http://derekspace.ddns.net/tags/wiring/</loc>
     <lastmod>2017-04-07T23:55:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/work/</loc>
+    <lastmod>2018-03-21T02:37:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/work/</loc>
+    <lastmod>2018-03-21T02:37:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   

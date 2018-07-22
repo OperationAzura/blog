@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/tags/win/index.xml</link>
+    <title>Win on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/win/</link>
+    <description>Recent content in Win on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Tue, 15 Jul 2008 00:16:34 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/tags/win/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Just maybe</title>
+      <link>http://derekspace.ddns.net/project/ust-mayb/</link>
+      <pubDate>Tue, 15 Jul 2008 00:16:34 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/ust-mayb/</guid>
+      <description>&amp;rsquo;m having issues getting the time formatted properly. The last blog I made this way thought it was in 2008!</description>
+    </item>
     
+    <item>
+      <title>Yes</title>
+      <link>http://derekspace.ddns.net/project/e/</link>
+      <pubDate>Tue, 15 Jul 2008 00:00:00 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/e/</guid>
+      <description>really really think this one will work except the cat picturning.</description>
+    </item>
     
-
   </channel>
 </rss>

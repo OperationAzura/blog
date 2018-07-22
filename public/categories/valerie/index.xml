@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/categories/valerie/index.xml</link>
+    <title>Valerie on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/valerie/</link>
+    <description>Recent content in Valerie on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Fri, 07 Apr 2017 23:55:42 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/categories/valerie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wires for Valerie</title>
+      <link>http://derekspace.ddns.net/project/wires-for-valeri/</link>
+      <pubDate>Fri, 07 Apr 2017 23:55:42 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/wires-for-valeri/</guid>
+      <description>s. Weagly sent a request to the IT department earlier today. She requested a wired network connection in her office. So I got the IT crew to start work on it immediately.
+Alex and I ran a cat5e cable from the existing hole in the floor, in the network center, to the existing hole in Valeries office. Her office had an old faceplate with 2 coax connections and a phone connection, that were all disconnected before we secured this location.</description>
+    </item>
     
-
   </channel>
 </rss>

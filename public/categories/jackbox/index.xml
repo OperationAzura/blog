@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackbox on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/jackbox/</link>
+    <description>Recent content in Jackbox on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 22:21:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://derekspace.ddns.net/categories/jackbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Wants to Play Fibbage?</title>
+      <link>http://derekspace.ddns.net/project/whowantstoplayfibbage/</link>
+      <pubDate>Thu, 22 Mar 2018 22:21:24 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/whowantstoplayfibbage/</guid>
+      <description>Fibbage Fridays! I will make it a thing. 9pm sharp! Anyone who is interested is welcome. We will stream the game. Last time we used google hangouts. We will be trying mixer this time around. And then all you need is to go to jackbox.tv and put in the code, that will be displayed on the stream. Also I got my tag system working on this blog. I&amp;rsquo;m testing an image this time.</description>
+    </item>
+    
+  </channel>
+</rss>

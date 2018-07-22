@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/tags/painting/index.xml</link>
+    <title>Painting on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/painting/</link>
+    <description>Recent content in Painting on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Thu, 20 Apr 2017 00:17:01 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/tags/painting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Painting Code</title>
+      <link>http://derekspace.ddns.net/project/painting-code/</link>
+      <pubDate>Thu, 20 Apr 2017 00:17:01 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/painting-code/</guid>
+      <description>I have been tossing around the idea of trying to paint my programs. I figured it would help me visualize what I&amp;rsquo;m working on better. And just might gain some artistic talent while I am at it. But mostly like Bob Ross says &amp;ldquo;every day is a good day when you paint.&amp;rdquo;
+It took me a while to take the leap. I decided I was spending far too much time worrying about how it will look or what to paint.</description>
+    </item>
     
-
   </channel>
 </rss>

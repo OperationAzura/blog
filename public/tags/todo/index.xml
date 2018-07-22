@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/tags/todo/index.xml</link>
+    <title>Todo on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/tags/todo/</link>
+    <description>Recent content in Todo on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Sat, 22 Apr 2017 20:55:26 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gathering Supplies</title>
+      <link>http://derekspace.ddns.net/project/gathering-supplies/</link>
+      <pubDate>Sat, 22 Apr 2017 20:55:26 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/gathering-supplies/</guid>
+      <description>Well tomorrow I should be going to home depot. I need to pick up a few things for various projects. I nee: PVC pipes and connectors for my solar panel fram electrical junction box that can be nailed to studs, for an outlet or light switch bag of soil
+I got measurements for my solar panels, I just need to get the materials now. I won&amp;rsquo;t go into detail here, since I did just a few blogs ago.</description>
+    </item>
     
+    <item>
+      <title>Solar Tracking Frame Prototype</title>
+      <link>http://derekspace.ddns.net/project/solar-tracking-frame-prototype/</link>
+      <pubDate>Wed, 19 Apr 2017 21:28:35 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/solar-tracking-frame-prototype/</guid>
+      <description>So I&amp;rsquo;ve been stalled on my solar tracking plans for a while now, and its time to get the engine going again. The main thing that stands in my way is building a frame. I have been trying to get other people to help me with this, but so far nobody has been able to give me the help I need.
+I am not incredibly adept at physical fabrication. Like welding, cutting, glueing, measuring and etc.</description>
+    </item>
     
+    <item>
+      <title>Lighting the Storage Room</title>
+      <link>http://derekspace.ddns.net/project/lighting-the-storage-room/</link>
+      <pubDate>Sat, 15 Apr 2017 13:42:05 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/lighting-the-storage-room/</guid>
+      <description>Our storage room doesn&amp;rsquo;t have a light. And that is annoying. So I plan to install one. I got some parts already but I messed up a little on the order.
+What I need in total: Light Fixture &amp;lt; got it Romex House Wire &amp;lt; got it Light Switch Power Box to mount light switch &amp;lt; got the wrong kind.
+extra for Raspberry PI projects: A relay &amp;lt; have some, but none that are like proper.</description>
+    </item>
     
+    <item>
+      <title>TODO</title>
+      <link>http://derekspace.ddns.net/project/todo/</link>
+      <pubDate>Tue, 11 Apr 2017 18:57:50 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/todo/</guid>
+      <description>Continue work on the back garden. a. resting my hand, so not today. b. Continue cutting grass strips c. Try to fill that big divot and maybe expand spikes territory over it. Taxes a. I figured it out! I will start on that momentarily. Attic fan thermostat. a. Want to record, I need: I. camera and gopro, batteries charged, sd cards empty, new go pro straps II. Lighting, extension cord Probably just that same reading lamp as always.</description>
+    </item>
     
-
   </channel>
 </rss>

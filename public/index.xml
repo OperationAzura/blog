@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/index.xml</link>
+    <link>http://derekspace.ddns.net/</link>
     <language>en-us</language>
     <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>2017-05-21 21:52:28 &#43;0000 UTC</updated>
+    <rights>(C) 2018</rights>
+    <updated>2018-03-22 22:21:24 &#43;0000 UTC</updated>
 
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
     
       
     
@@ -85,7 +105,7 @@
         <item>
           <title>first</title>
           <link>http://derekspace.ddns.net/post/first/</link>
-          <pubDate>Tue, 20 Dec 2016 21:40:31 EST</pubDate>
+          <pubDate>Tue, 20 Dec 2016 21:40:31 -0500</pubDate>
           <author>Derek Stich</author>
           <guid>http://derekspace.ddns.net/post/first/</guid>
           <description>&lt;p&gt;This will be my first hugo post.  I still need to get some things setup.&lt;/p&gt;

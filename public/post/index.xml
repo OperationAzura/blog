@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/post/index.xml</link>
+    <title>Posts on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/post/</link>
+    <description>Recent content in Posts on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>2016-12-20 21:40:31 -0500 EST</updated>
-
+    <lastBuildDate>Tue, 20 Dec 2016 21:40:31 -0500</lastBuildDate>
     
-      
-        <item>
-          <title>first</title>
-          <link>http://derekspace.ddns.net/post/first/</link>
-          <pubDate>Tue, 20 Dec 2016 21:40:31 EST</pubDate>
-          <author>Derek Stich</author>
-          <guid>http://derekspace.ddns.net/post/first/</guid>
-          <description>&lt;p&gt;This will be my first hugo post.  I still need to get some things setup.&lt;/p&gt;
-</description>
-        </item>
-      
+	<atom:link href="http://derekspace.ddns.net/post/index.xml" rel="self" type="application/rss+xml" />
     
-
+    
+    <item>
+      <title>first</title>
+      <link>http://derekspace.ddns.net/post/first/</link>
+      <pubDate>Tue, 20 Dec 2016 21:40:31 -0500</pubDate>
+      
+      <guid>http://derekspace.ddns.net/post/first/</guid>
+      <description>This will be my first hugo post. I still need to get some things setup.</description>
+    </item>
+    
   </channel>
 </rss>

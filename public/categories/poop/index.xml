@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek&#39;s Blog </title>
-    <link>http://derekspace.ddns.net/categories/poop/index.xml</link>
+    <title>Poop on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/poop/</link>
+    <description>Recent content in Poop on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Derek Stich</author>
-    <rights>(C) 2017</rights>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
-
+    <lastBuildDate>Tue, 20 Mar 2018 13:47:19 +0000</lastBuildDate>
     
+	<atom:link href="http://derekspace.ddns.net/categories/poop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Got It Working3!</title>
+      <link>http://derekspace.ddns.net/project/gotitworking3/</link>
+      <pubDate>Tue, 20 Mar 2018 13:47:19 +0000</pubDate>
       
+      <guid>http://derekspace.ddns.net/project/gotitworking3/</guid>
+      <description>Lets see</description>
+    </item>
     
-
+    <item>
+      <title>Get Up!</title>
+      <link>http://derekspace.ddns.net/project/get-up/</link>
+      <pubDate>Fri, 09 Mar 2018 03:11:31 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/get-up/</guid>
+      <description>must wake Valerie up at 6:30am</description>
+    </item>
+    
+    <item>
+      <title>Victory!</title>
+      <link>http://derekspace.ddns.net/project/ictory/</link>
+      <pubDate>Mon, 03 Apr 2017 22:18:08 -0500</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/ictory/</guid>
+      <description>Now! I think I just tweaked the last twook, and we are ready to make these files!</description>
+    </item>
+    
   </channel>
 </rss>
