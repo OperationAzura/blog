@@ -6,10 +6,102 @@
     <description>Recent content in Projects on Derek&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Mar 2018 22:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 20:37:32 +0000</lastBuildDate>
     
 	<atom:link href="http://derekspace.ddns.net/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tattoo42</title>
+      <link>http://derekspace.ddns.net/project/tattoo42/</link>
+      <pubDate>Sun, 01 Sep 2019 20:37:32 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo42/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo41</title>
+      <link>http://derekspace.ddns.net/project/tattoo41/</link>
+      <pubDate>Sun, 01 Sep 2019 20:10:51 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo41/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo4</title>
+      <link>http://derekspace.ddns.net/project/tattoo4/</link>
+      <pubDate>Sun, 01 Sep 2019 19:59:41 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo4/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo1</title>
+      <link>http://derekspace.ddns.net/project/tattoo1/</link>
+      <pubDate>Sat, 31 Aug 2019 22:31:48 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo1/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo</title>
+      <link>http://derekspace.ddns.net/project/tattoo/</link>
+      <pubDate>Sat, 31 Aug 2019 20:11:38 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Final Test</title>
+      <link>http://derekspace.ddns.net/project/finaltest/</link>
+      <pubDate>Sat, 31 Aug 2019 19:10:16 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/finaltest/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Marbles</title>
+      <link>http://derekspace.ddns.net/project/marbles/</link>
+      <pubDate>Sat, 31 Aug 2019 17:52:16 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/marbles/</guid>
+      <description>Well after a smidge of tinkering, I&amp;rsquo;ve got my bog site back up, its blog submission site worker better than ever! I&amp;rsquo;ve fixed the way images get stored, and their titles.
+I&amp;rsquo;ve managed permissions so hugo command will run</description>
+    </item>
+    
+    <item>
+      <title>Yay Easy Fixes!</title>
+      <link>http://derekspace.ddns.net/project/yayeasyfixes/</link>
+      <pubDate>Sat, 31 Aug 2019 17:45:13 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/yayeasyfixes/</guid>
+      <description>Well after a smidge of tinkering, I&amp;rsquo;ve got my bog site back up, its blog submission site worker better than ever! I&amp;rsquo;ve fixed the way images get stored, and their titles.
+I&amp;rsquo;ve managed permissions so hugo command will run</description>
+    </item>
+    
+    <item>
+      <title>It Still Works2</title>
+      <link>http://derekspace.ddns.net/project/itstillworks2/</link>
+      <pubDate>Sat, 31 Aug 2019 17:26:33 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/itstillworks2/</guid>
+      <description>This is mostly a test to see what happens. Its been almost a years since I&amp;rsquo;ve looked at what was going on with my blog / blogMaker. I&amp;rsquo;m not sure what the last thing I was working on is. Might have been allowing multiple tags and categories, but I&amp;rsquo;m not sure.</description>
+    </item>
+    
+    <item>
+      <title>It Still Works</title>
+      <link>http://derekspace.ddns.net/project/itstillworks/</link>
+      <pubDate>Sat, 31 Aug 2019 17:07:04 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/itstillworks/</guid>
+      <description>This is mostly a test to see what happens. Its been almost a years since I&amp;rsquo;ve looked at what was going on with my blog / blogMaker. I&amp;rsquo;m not sure what the last thing I was working on is. Might have been allowing multiple tags and categories, but I&amp;rsquo;m not sure.</description>
+    </item>
     
     <item>
       <title>Who Wants to Play Fibbage?</title>

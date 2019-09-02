@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://derekspace.ddns.net/project/tattoo42/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/tattoo41/</loc>
+    <lastmod>2019-09-01T20:10:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/tattoo4/</loc>
+    <lastmod>2019-09-01T19:59:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/tattoo1/</loc>
+    <lastmod>2019-08-31T22:31:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/tattoo/</loc>
+    <lastmod>2019-08-31T20:11:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/finaltest/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/marbles/</loc>
+    <lastmod>2019-08-31T17:52:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/yayeasyfixes/</loc>
+    <lastmod>2019-08-31T17:45:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/itstillworks2/</loc>
+    <lastmod>2019-08-31T17:26:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/project/itstillworks/</loc>
+    <lastmod>2019-08-31T17:07:04+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/project/whowantstoplayfibbage/</loc>
     <lastmod>2018-03-22T22:21:24+00:00</lastmod>
   </url>
@@ -289,6 +339,24 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/tags/blog/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/blog/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/blogpiraspberrypi/</loc>
+    <lastmod>2019-08-31T17:26:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/tags/boss/</loc>
     <lastmod>2018-03-22T00:41:55+00:00</lastmod>
     <priority>0</priority>
@@ -338,7 +406,19 @@
   
   <url>
     <loc>http://derekspace.ddns.net/</loc>
-    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/dragon/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/dragon/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,6 +501,18 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/tags/image/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/image/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/tags/jackbox/</loc>
     <lastmod>2018-03-22T22:21:24+00:00</lastmod>
     <priority>0</priority>
@@ -469,6 +561,18 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/tags/pi/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/pi/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/tags/poop/</loc>
     <lastmod>2018-03-20T13:47:19+00:00</lastmod>
     <priority>0</priority>
@@ -488,7 +592,25 @@
   
   <url>
     <loc>http://derekspace.ddns.net/project/</loc>
-    <lastmod>2018-03-22T22:21:24+00:00</lastmod>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/raspberrypi/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/raspberrypi/</loc>
+    <lastmod>2019-08-31T19:10:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/tags/raspberrypipiblog/</loc>
+    <lastmod>2019-08-31T17:26:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -511,6 +633,18 @@
   </url>
   
   <url>
+    <loc>http://derekspace.ddns.net/tags/tattoo/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://derekspace.ddns.net/categories/tattoo/</loc>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://derekspace.ddns.net/categories/terraforming/</loc>
     <lastmod>2017-05-21T21:52:28+00:00</lastmod>
     <priority>0</priority>
@@ -518,13 +652,13 @@
   
   <url>
     <loc>http://derekspace.ddns.net/tags/test/</loc>
-    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://derekspace.ddns.net/categories/test/</loc>
-    <lastmod>2018-03-20T13:47:19+00:00</lastmod>
+    <lastmod>2019-09-01T20:37:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   

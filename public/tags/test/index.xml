@@ -6,10 +6,55 @@
     <description>Recent content in Test on Derek&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 13:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 20:37:32 +0000</lastBuildDate>
     
 	<atom:link href="http://derekspace.ddns.net/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tattoo42</title>
+      <link>http://derekspace.ddns.net/project/tattoo42/</link>
+      <pubDate>Sun, 01 Sep 2019 20:37:32 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo42/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo41</title>
+      <link>http://derekspace.ddns.net/project/tattoo41/</link>
+      <pubDate>Sun, 01 Sep 2019 20:10:51 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo41/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo4</title>
+      <link>http://derekspace.ddns.net/project/tattoo4/</link>
+      <pubDate>Sun, 01 Sep 2019 19:59:41 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo4/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo1</title>
+      <link>http://derekspace.ddns.net/project/tattoo1/</link>
+      <pubDate>Sat, 31 Aug 2019 22:31:48 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo1/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Tattoo</title>
+      <link>http://derekspace.ddns.net/project/tattoo/</link>
+      <pubDate>Sat, 31 Aug 2019 20:11:38 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/tattoo/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
     
     <item>
       <title>Got It Working3!</title>
