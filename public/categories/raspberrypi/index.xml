@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberrypi on Derek&#39;s Blog</title>
+    <link>http://derekspace.ddns.net/categories/raspberrypi/</link>
+    <description>Recent content in Raspberrypi on Derek&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Aug 2019 19:10:16 +0000</lastBuildDate>
+    
+	<atom:link href="http://derekspace.ddns.net/categories/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Final Test</title>
+      <link>http://derekspace.ddns.net/project/finaltest/</link>
+      <pubDate>Sat, 31 Aug 2019 19:10:16 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/finaltest/</guid>
+      <description>Got it all working better than ever. Now to check that it works fine whe run as a service.</description>
+    </item>
+    
+    <item>
+      <title>Marbles</title>
+      <link>http://derekspace.ddns.net/project/marbles/</link>
+      <pubDate>Sat, 31 Aug 2019 17:52:16 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/marbles/</guid>
+      <description>Well after a smidge of tinkering, I&amp;rsquo;ve got my bog site back up, its blog submission site worker better than ever! I&amp;rsquo;ve fixed the way images get stored, and their titles.
+I&amp;rsquo;ve managed permissions so hugo command will run</description>
+    </item>
+    
+    <item>
+      <title>Yay Easy Fixes!</title>
+      <link>http://derekspace.ddns.net/project/yayeasyfixes/</link>
+      <pubDate>Sat, 31 Aug 2019 17:45:13 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/yayeasyfixes/</guid>
+      <description>Well after a smidge of tinkering, I&amp;rsquo;ve got my bog site back up, its blog submission site worker better than ever! I&amp;rsquo;ve fixed the way images get stored, and their titles.
+I&amp;rsquo;ve managed permissions so hugo command will run</description>
+    </item>
+    
+    <item>
+      <title>It Still Works</title>
+      <link>http://derekspace.ddns.net/project/itstillworks/</link>
+      <pubDate>Sat, 31 Aug 2019 17:07:04 +0000</pubDate>
+      
+      <guid>http://derekspace.ddns.net/project/itstillworks/</guid>
+      <description>This is mostly a test to see what happens. Its been almost a years since I&amp;rsquo;ve looked at what was going on with my blog / blogMaker. I&amp;rsquo;m not sure what the last thing I was working on is. Might have been allowing multiple tags and categories, but I&amp;rsquo;m not sure.</description>
+    </item>
+    
+  </channel>
+</rss>

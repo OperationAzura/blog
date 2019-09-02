@@ -1,0 +1,57 @@
+
+<html>
+  <head>
+    <script  url="http://derekspace.ddns.net:8080/static/ajax.js" src="http://derekspace.ddns.net:8080/static/ajax.js"></script>
+  </head>
+  <body>
+    <form action="http://derekspace.ddns.net:8080/save" method="GET">
+      Title:
+      <input id="title" type="text" name="title"><br>
+      Description:
+      <input id="description" type="text" name="description"><br>
+      Image:
+      <input id="image" type="text" name="image"><br>
+      Video:
+      <input id="video" type="text" name="video"><br>
+      Tags:
+      <input id="tags" type="text" name="tags"><br>
+      Categories:
+      <input id="categories" type="text" name="categories"><br>
+      Draft:
+      <input id="draft" type="text" name="draft" value="draft"><br>
+      <br>
+      Blog body:
+      <br>
+      <textarea id="body" rows="8" cols="100"></textarea>
+      <br>
+      <input type="file" onchange="previewFile()"><br>
+      <img src="" height="200" alt="Image preview..."
+      <br>
+      <br>
+      <input id="submit" type="button" value="submit">
+    </form>
+    <div id="success">asdf</div>
+
+      <script >
+        function previewFile(){
+       var preview = document.querySelector('img'); //selects the query named img
+       var file    = document.querySelector('input[type=file]').files[0]; //sames as here
+       var reader  = new FileReader();
+
+       reader.onloadend = function () {
+           preview.src = reader.result;
+           console.log(preview.src);
+           document.getElementById("image").value = preview.src;
+       }
+
+       if (file) {
+           reader.readAsDataURL(file); //reads the data as a URL
+       } else {
+           preview.src = "";
+       }
+  }
+
+  previewFile();  //calls the function named previewFile()
+      </script>
+  </body>
+</html>
